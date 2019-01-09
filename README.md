@@ -6,10 +6,10 @@ Here i am Created a Demo of CRUD (Create,Read.Update,Delete) Application in mysq
 
 ### Following a step to perform before run this Application
 
-1. On your **PHPMYADMIN** to import a dabase file.
+1. On your **PHPMYADMIN** to import a database file.
    - in **Database Folder** to import the .sql file in to your **PHPMYADMIN**
 2. Second step is 
-   - Open your CMD or Terminal and locate this Application Folder
+   - Open your *Command Prompt* or *Terminal* and locate this Application Folder
    - and run the command `npm install`
    - after you see the in your this application directory created a new Folder named **node_modules**
 3. Then our Application Environment is perfectly setup.
